@@ -1,0 +1,17 @@
+
+{
+    "name": "lambda-price-updater",
+    "version": "1.0.0",
+    "description": "Lambda function to update product prices",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {
+      "mysql": "^2.18.1"
+    },
+    "devDependencies": {
+      "jest": "^27.5.1"
+    }
+  }
+  
